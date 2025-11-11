@@ -1,6 +1,6 @@
 # IMPACTDataSuiteR
 
-A package designed for humanitarian needs and survey data workflows — from data‑checking and cleaning to analysis — tailored for datasets (e.g., KOBO McSA) and for use in organisations such as Impact Initiatives.
+A package designed for humanitarian needs and survey data workflows, from data‑checking and cleaning to analysis, tailored for datasets (e.g., KOBO) and for use in organisations such as Impact Initiatives.
 
 ## Features
 
